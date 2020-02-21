@@ -1,0 +1,2 @@
+package-lock.json: For performance reasons, document symbols have been limited to 5000 items.
+Use setting 'json.maxItemsComputed' to configure the limit.
